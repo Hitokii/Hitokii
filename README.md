@@ -1,4 +1,4 @@
-<h2 align="left">Welcome to Hitoki's profile</h2>
+<h2 align="left"> 🦊 Welcome to Hitoki's profile</h2>
 
 ###
 
